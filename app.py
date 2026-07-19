@@ -16,7 +16,7 @@ import streamlit as st
 # ----------------------------------------------------------------------
 # PAGE CONFIG
 # ----------------------------------------------------------------------
-st.set_page_confpiig(
+st.set_page_config(
     page_title="NovaRetail Customer Intelligence Dashboard",
     page_icon="🛍️",
     layout="wide",
